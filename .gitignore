@@ -1,5 +1,6 @@
-.venv
+*.pyc
+__pycache
+.DS_Store
+.env.dev
 .env.prod
 .env.prod.db
-docker-compose.prod.yml
-*.pyc
